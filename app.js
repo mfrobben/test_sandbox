@@ -1,10 +1,5 @@
 /*jshint asi: true globalstrict: true*/
 "use strict";
-/**
- * 507 backend service
- * Coded by Developer Hive at Terrarium Inc.
- * Copyright (c) 2012 Terrarium Inc.
- */
 
 var async = require('async'),
     mongo = require('mongodb'),
